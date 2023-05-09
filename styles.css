@@ -38,6 +38,7 @@ body {
   justify-content:space-around;
   flex-direction:column;
   margin:0px 0px 0px 0px;
+  min-height:100%;
 }
 #ihq3{
   flex-basis:50%;
