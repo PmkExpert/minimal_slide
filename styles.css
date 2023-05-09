@@ -40,6 +40,7 @@ body {
   margin:0px 0px 0px 0px;
   min-height:100%;
   align-self:stretch;
+  padding:0px 0px 50px 0px;
 }
 #ihq3{
   flex-basis:50%;
