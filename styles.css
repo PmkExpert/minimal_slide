@@ -104,6 +104,12 @@ body {
 }
 #iwkch{
   color:black;
+  height:200px;
+  align-self:center;
+  float:none;
+  justify-content:space-around;
+  display:flex;
+  margin:30px 0px 0px 0px;
 }
 @keyframes fadeEffect{
   from{
